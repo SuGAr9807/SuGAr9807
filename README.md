@@ -3,7 +3,7 @@
 <!-- <img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-39.gif" alt="Coding" width="400" display="inline"> -->
 - 🌱 ** UI/UX Designer **
 
-- 📫 How to reach me **sugarvikram@gmail.com**
+- 📫 How to reach me **sugarvikram98@gmail.com**
 
 - ⚡ Fun fact **I think I am a creative mind but for different field.**
 
