@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sugar</h1>
 <h3 align="center">A passionate UI/UX Designer and also know programming languages like Python and Java .</h3>
-<!-- <img src="https://www.icegif.com/wp-content/uploads/naruto-icegif-39.gif" alt="Coding" width="400" display="inline"> -->
+<img src="https://gifdb.com/images/high/kawaii-anime-girl-hug-vc8yznx2ky6kelqc.gif" alt="Cute" width="400" display="inline">
 - 🌱 ** UI/UX Designer **
 
 - 📫 How to reach me **sugarvikram98@gmail.com**
 
 - ⚡ Fun fact **I think I am a creative mind but for different field.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugar" height="30" width="40" /></a> linkdin-->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sugar" height="30" width="40" /></a> instagram -->
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
